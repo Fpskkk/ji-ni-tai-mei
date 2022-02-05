@@ -3,11 +3,11 @@
 </p>
 <div align="center">
 
-# RapeSenpai
+#鸡你太美
 **新概念Home游戏**
 </div>
 
 ## 简介
-小游戏：雷普先辈
+小游戏：鸡你太美
 
 纯恶搞无恶意。
