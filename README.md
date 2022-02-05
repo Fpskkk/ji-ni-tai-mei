@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-#鸡你太美
+#jinitaimei
 **新概念Home游戏**
 </div>
 
